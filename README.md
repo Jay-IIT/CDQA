@@ -12,7 +12,7 @@
 
 An End-To-End Closed Domain Question Answering System. Built on top of the HuggingFace [transformers](https://github.com/huggingface/transformers) library.
 
-**⛔ [NOT MAINTAINED] This repository is no longer maintained, but is being kept around for educational purposes. If you want a maintained alternative to cdQA check out: https://github.com/deepset-ai/haystack**
+
 
 ## cdQA in details
 
